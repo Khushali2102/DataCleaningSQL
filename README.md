@@ -6,13 +6,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Datasets and Tools Used](#datasets-and-tools-used)
-- [Getting Started](#getting-started)
-- [SQL Scripts Overview](#sql-scripts-overview)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 This project focuses on SQL scripts and methodologies for data cleaning, aiming to enhance data quality and integrity for analytical processes.
